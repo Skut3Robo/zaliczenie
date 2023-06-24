@@ -1,1 +1,2 @@
 print('tekst')
+print('tak')
